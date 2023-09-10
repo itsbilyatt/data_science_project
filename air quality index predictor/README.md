@@ -2,12 +2,12 @@
 
         This webapp is predicting air quality index using 
         
-•so2 (sulphur dioxide concentration)
+        •so2 (sulphur dioxide concentration)
 
-•no2 (nitrogen dioxide concentration)
+        •no2 (nitrogen dioxide concentration)
 
-•rspm (respirable suspended particualte matter concentration)
+        •rspm (respirable suspended particualte matter concentration)
 
-•spm (suspended particulate matter)
+        •spm (suspended particulate matter)
 
 
