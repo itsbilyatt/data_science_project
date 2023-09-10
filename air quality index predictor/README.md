@@ -10,8 +10,9 @@
 
         •spm (suspended particulate matter)
 
---->Jupyter Notebook contains machine learning model
---->index.html conatins basic frontend code and app.py contains app backend code
+        --->Jupyter Notebook contains machine learning model
+        
+        --->index.html conatins basic frontend code and app.py contains app backend code
 
 
 
